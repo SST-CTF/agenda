@@ -4,28 +4,27 @@
 
 ### News
 
-* News A
-* News B
-* News C
-* Club news
+* [The UNIX- HATERS Handbook](http://web.mit.edu/~simsong/www/ugh.pdf)
+* [How We Put Together Linux Systems](http://0pointer.net/blog/revisiting-how-we-put-together-linux-systems.html)
+* [Amazon Outage](https://aws.amazon.com/message/41926/)
 
 ### Agenda
 
-* Learn C
-* Code in C
-* Github push C
+* Party
+  * Discuss funding future
+* GitBook lesson
+* Join us on [Codewars](https://www.codewars.com)
 
 ### Events
 
-* Oregon CTF
-* DEFCON
+* CTF competition next week
+  * Dane hosting
+  * **Who is going** - 
 
 ### Homework
 
-* Commit on git
-* Work on projects
-
-
+* Finish write-ups
+* [Codewars](https://www.codewars.com)
 
 
 

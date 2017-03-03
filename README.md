@@ -2,10 +2,6 @@
 
 ---
 
-![](https://github.com/SST-CTF/website/blob/master/img/github/webpage.gif?raw=true)
-
----
-
 ## Important Links
 
 [**sstctf.org**](http://sstctf.org) - Main page
@@ -19,4 +15,12 @@
 [**github.sstctf.org**](http://github.sstctf.org) - Our GitHub Page
 
 [**tools.sstctf.org**](http://tools.sstctf.org) - CTF Tools
+
+## 
+
+## 
+
+## _More Information Coming Soon!_
+
+
 
