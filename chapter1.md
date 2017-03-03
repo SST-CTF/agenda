@@ -4,26 +4,28 @@
 
 ### News
 
-* [ ] News A
-* [ ] News B
-* [ ] News C
-* [ ] Club news
+* News A
+* News B
+* News C
+* Club news
 
 ### Agenda
 
-* [ ] Learn C
-* [ ] Code in C
-* [ ] Github push C
+* Learn C
+* Code in C
+* Github push C
 
 ### Events
 
-* [ ] Oregon CTF
-* [ ] DEFCON
+* Oregon CTF
+* DEFCON
 
 ### Homework
 
-* [ ] Commit on git
-* [ ] Work on projects
+* Commit on git
+* Work on projects
+
+
 
 
 
