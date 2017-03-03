@@ -1,4 +1,4 @@
-# [**SST CTF**](http://sstctf.org) - **February 27, 2017**
+# [**SST CTF**](http://sstctf.org) - March** 3, 2017**
 
 ---
 
