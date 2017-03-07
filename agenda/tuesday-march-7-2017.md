@@ -8,7 +8,8 @@
 
 ### Agenda
 
-* GitBook lesson
+* GitBook lesson - _Otakar_
+* SageMath lesson - _Dane_
 * Bucks
 * Review Coding Projects
   * Look at creating own CTF
@@ -27,7 +28,7 @@
 | Otakar A. | Kenneth |  |
 | Andrew Q. | Dane |  |
 | Tamir E. | Sterling |  |
-| Stan L. | Myles |  |
+| Stan L. | Myles |   |
 
 * PicoCTF 2017 is coming!
 
