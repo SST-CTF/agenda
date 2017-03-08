@@ -10,7 +10,7 @@
 
 * GitBook lesson - _Otakar_
 * SageMath lesson - _Dane_
-* Bucks
+* Deer
 * Review Coding Projects
   * Look at creating own CTF
 * [Codewars](https://www.codewars.com/r/H6c7jQ)
@@ -23,7 +23,7 @@
     * Be there at **7:30 AM**
     * [Easy CTF](https://www.easyctf.com)
 
-| Going | Maybe | Not ***going*** |
+| Going | Maybe | Not _**going**_ |
 | :--- | :--- | :--- |
 | Otakar A. | Myles | Dane M. |
 | Andrew Q. | Sterling |  |
