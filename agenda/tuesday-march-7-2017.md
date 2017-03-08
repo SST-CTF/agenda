@@ -25,11 +25,12 @@
 
 | Going | Maybe | Not going |
 | :--- | :--- | :--- |
-| Otakar A. | Kenneth | Dane M. |
-| Andrew Q. | Kevin |  |
-| Tamir E. | Sterling |  |
-| Stan L. | Myles |  |
+| Otakar A. | Kevin | Dane M. |
+| Andrew Q. | Sterling |  |
+| Tamir E. | Myles |  |
+| Stan L. |  |  |
 | Stephen B. |  |  |
+| Kenneth |  |  |
 
 * PicoCTF 2017 is coming!
 
