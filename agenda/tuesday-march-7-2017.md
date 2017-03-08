@@ -13,7 +13,7 @@
 * Bucks
 * Review Coding Projects
   * Look at creating own CTF
-* [Codewars](/www.codewars.com/r/H6c7jQ)
+* [Codewars](https://www.codewars.com/r/H6c7jQ)
 
 ### Events
 
