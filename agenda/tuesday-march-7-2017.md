@@ -23,7 +23,7 @@
     * Be there at **7:30 AM**
     * [Easy CTF](https://www.easyctf.com)
 
-| Going | Maybe | Not going |
+| Going | Maybe | Not ***going*** |
 | :--- | :--- | :--- |
 | Otakar A. | Myles | Dane M. |
 | Andrew Q. | Sterling |  |
