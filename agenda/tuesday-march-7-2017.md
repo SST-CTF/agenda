@@ -41,5 +41,3 @@
 * [Codewars](https://www.codewars.com)
 * Prepare for EasyCTF
 
-
-
