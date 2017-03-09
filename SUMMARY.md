@@ -6,4 +6,5 @@
     * [Tuesday March 7, 2017](agenda/tuesday-march-7-2017.md)
     * [Thursday March 9, 2017](agenda/thursday-march-9-2017.md)
     * [Friday March 10, 2017](agenda/friday-march-10-2017.md)
+* [Announcements](announcements.md)
 
