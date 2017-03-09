@@ -12,10 +12,10 @@
 
 ## How To Solve
 
-* [Programming](programming.md)
-  * Socket
 * [Crypto](crypto.md)
   * Caesar
+* [Programming](programming.md)
+  * Socket
 * Shell
 * Web
 * Disassembling/Debugging
