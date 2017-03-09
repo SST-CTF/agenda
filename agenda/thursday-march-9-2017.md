@@ -1,18 +1,16 @@
-# [**SST CTF**](http://sstctf.org) - Tuesday March** 7, 2017**
+# [**SST CTF**](http://sstctf.org) - Thursday March** 9, 2017**
 
 ---
 
 ### News
 
-* [Another MIT robot](https://www.cnet.com/news/mit-robot-baxter-mind-controlled-telepathy-eeg-daniela-rus/)
+* [WikiLeaks will release more data](https://www.cnet.com/news/wikileaks-apple-google-samsung-cia-hacks-julian-assange/)
+* [Uber's interesting 'grayball' system](https://www.cnet.com/news/uber-to-end-use-of-greyball-tool-to-evade-officials/)
 
 ### Agenda
 
-* GitBook lesson - _Otakar_
-* SageMath lesson - _Dane_
-* Deer
-* Review Coding Projects
-  * Look at creating own CTF
+* * Review Coding Projects
+
 * [Codewars](https://www.codewars.com/r/H6c7jQ)
 
 ### Events
@@ -30,14 +28,19 @@
 | Tamir E. |  |  |
 | Stan L. |  |  |
 | Stephen B. |  |  |
-| Kenneth |  |  |
-| Kevin |  |  |
+| Kenneth H. |  |  |
+| Kevin T. |  |  |
 
-* PicoCTF 2017 is coming!
+* PicoCTF 2017
+  * [https://2017.picoctf.com](https://2017.picoctf.com)
+* PACTF 2017
+  * [https://splash.pactf.com](https://splash.pactf.com)
 
 ### Homework
 
 * Finish write-ups!!
 * [Codewars](https://www.codewars.com)
 * Prepare for EasyCTF
+
+
 
