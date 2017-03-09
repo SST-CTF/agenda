@@ -9,8 +9,7 @@
 
 ### Agenda
 
-* * Review Coding Projects
-
+* Review Coding Projects
 * [Codewars](https://www.codewars.com/r/H6c7jQ)
 
 ### Events
@@ -24,12 +23,12 @@
 | Going | Maybe | Not _**going**_ |
 | :--- | :--- | :--- |
 | Otakar A. | Myles | Dane M. |
-| Andrew Q. | Sterling |  |
+| Andrew Q. | Sterling H. |  |
 | Tamir E. |  |  |
 | Stan L. |  |  |
 | Stephen B. |  |  |
-| Kenneth H. |  |  |
-| Kevin T. |  |  |
+| Kenneth B. |  |  |
+| Kevin T. |  |        |
 
 * PicoCTF 2017
   * [https://2017.picoctf.com](https://2017.picoctf.com)
