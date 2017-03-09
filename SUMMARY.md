@@ -12,12 +12,12 @@
 
 ## How To Solve
 
+* [How To Solve](how-to-solve.md)
 * [Crypto](crypto.md)
   * Caesar
 * [Programming](programming.md)
   * Socket
-* Shell
+* [Shell](shell.md)
 * Web
 * Disassembling/Debugging
-* [How To Solve](how-to-solve.md)
 
