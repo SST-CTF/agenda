@@ -16,8 +16,6 @@
 
 [**tools.sstctf.org**](http://tools.sstctf.org) - CTF Tools
 
-
-
 ## 
 
 ## 
