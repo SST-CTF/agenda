@@ -20,15 +20,6 @@
     * Be there at **7:30 AM**
     * [Easy CTF](https://www.easyctf.com)
 
-| Going | Maybe | Not _**going**_ |
-| :--- | :--- | :--- |
-| Otakar A. | Myles | Dane M. |
-| Andrew Q. | Sterling H. |  |
-| Tamir E. |  |  |
-| Stan L. |  |  |
-| Stephen B. |  |  |
-| Kenneth B. |  |  |
-| Kevin T. |  |        |
 
 * PicoCTF 2017
   * [https://2017.picoctf.com](https://2017.picoctf.com)
