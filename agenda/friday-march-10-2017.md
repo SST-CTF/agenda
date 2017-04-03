@@ -4,11 +4,11 @@
 
 ### News
 
-* TBD
+* None
 
 ### Agenda
 
-* TBD
+* None
 
 ### Events
 
@@ -18,13 +18,11 @@
     * Be there at **7:30 AM**
     * [Easy CTF](https://www.easyctf.com)
 
-
-
 * PicoCTF 2017 is coming!
 
 ### Homework
 
-* TBD
+* None
 
 
 
