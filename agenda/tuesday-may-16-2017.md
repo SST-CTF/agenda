@@ -9,6 +9,7 @@
 ### Agenda
 
 * Talk about Saturday
+* CTF advertising in CSP
 * Leviatan
 
 ### Events
