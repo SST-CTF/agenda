@@ -18,6 +18,7 @@
 
 ## Agenda
 
+* [Tuesday May 16, 2017](agenda/tuesday-may-16-2017.md)
 * [Tuesday April 4, 2017](agenda/tuesday-april-4-2017.md)
 * [Tuesday March 14, 2017](agenda/tuesday-march-14-2017.md)
 * [Friday March 10, 2017](agenda/friday-march-10-2017.md)
