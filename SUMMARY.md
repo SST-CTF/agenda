@@ -7,14 +7,13 @@
 
 ## Problem Solving
 
-* [How To Solve](how-to-solve.md)
 * [Crypto](crypto.md)
-  * Caesar
+  * [Caesar](crypto/caesar.md)
 * [Programming](programming.md)
-  * Socket
+  * [Socket](programming/socket.md)
 * [Shell](shell.md)
 * [Web](web.md)
-* Disassembling/Debugging
+* [Disassembling/Debugging](disassemblingdebugging.md)
 
 ## Agenda
 

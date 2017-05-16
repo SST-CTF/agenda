@@ -1,4 +1,4 @@
-# SST CTF Agenda
+# SST CTF Links and Tools
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 
 
-## _More Information Coming Soon!_
+## _More Coming Soon!_
 
 
 

@@ -25,15 +25,7 @@
   * Bring $10 travel and any money you want for food   _Recommend $30 Total_
 * * **Event Details:** [https://sert2521.org/hack/](https://sert2521.org/hack/)
 
-| Going | Maybe | Not Going |
-| :--- | :--- | :--- |
-| Otakar | Dane | Stephen |
-| Tamir | Kenneth | Baran |
-| Andrew | Kevin | Mike |
-| Stan | Sterling |  |
-|  | Marco |  |
-
-### Homework
+## Homework
 
 * Ask parents/family about Saturday's event
 
